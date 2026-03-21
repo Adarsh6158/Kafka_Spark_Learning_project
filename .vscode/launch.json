@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "type": "java",
+        "name": "KafkaProducerApp",
+        "request": "launch",
+        "mainClass": "com.example.KafkaProducerApp",
+        "projectName": "spark-streaming-mongo-kafka"
+    },
+    {
+        "type": "java",
+        "name": "Run KafkaMessagesConsume",
+        "request": "launch",
+        "mainClass": "com.example.KafkaMessagesConsume",
+        "vmArgs": "--add-opens java.base/sun.nio.ch=ALL-UNNAMED"
+    }
+]
+}

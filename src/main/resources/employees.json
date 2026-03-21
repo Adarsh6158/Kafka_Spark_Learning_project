@@ -1,0 +1,7 @@
+[
+  {"id": 1, "name": "Adarsh", "age": 23, "country": "India"},
+  {"id": 2, "name": "John", "age": 30, "country": "USA"},
+  {"id": 3, "name": "Suresh", "age": 27, "country": "India"},
+  {"id": 4, "name": "Maria", "age": 25, "country": "UK"},
+  {"id": 5, "name": "Rahul", "age": 26, "country": "India"}
+]
