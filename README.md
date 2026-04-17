@@ -42,5 +42,3 @@ Java, Kafka, Spark, MongoDB
 ## Output
 
 MongoDB → `adarsh.india`
-
----
