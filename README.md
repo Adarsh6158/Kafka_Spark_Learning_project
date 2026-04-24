@@ -6,7 +6,13 @@ Simple real-time pipeline using Kafka, Spark Structured Streaming, and MongoDB.
 
 JSON → Kafka (Emp) → Spark → Filter (India) → MongoDB
 
-<img width="750" height="340" alt="image" src="https://github.com/user-attachments/assets/fb390b7e-e598-4fd3-aeb3-57242f7d50e9" />
+<img width="650" height="310" alt="image" src="https://github.com/user-attachments/assets/9ca80721-bffe-45ed-9270-3a6e9dd043d6" />
+
+## Sequence Flow
+
+<img width="900" height="780" alt="image" src="https://github.com/user-attachments/assets/304f431f-43c5-4144-8db1-d7c2ecedba48" />
+
+
 
 
 
